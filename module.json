@@ -1,0 +1,14 @@
+{   
+    "name": "releasemodule-test",
+    "title": "releasemodule-test",
+    "description": "test of releasing modules from github",
+    "author": "Dethston",
+    "version": "0.0.6",
+    "compatibleCoreVersion": "0.7.9",
+    "scripts": [
+        "init.js"
+    ],
+    "url": "https://github.com/Dethston/releaseautomationtest",
+    "manifest": "https://github.com/Dethston/releaseautomationtest/releases/download/0.0.6/module.json",
+    "download": "https://github.com/Dethston/releaseautomationtest/releases/download/0.0.6/module.zip" 
+ }    
