@@ -1,14 +1,14 @@
 {   
-    "name": "releasemodule-test",
-    "title": "releasemodule-test",
-    "description": "test of releasing modules from github",
+    "name": "Genefunk Use Items",
+    "title": "Genefunk Use Items",
+    "description": "Test module for allowing the use of drugs and other items in genefunk",
     "author": "Dethston",
     "version": "0.0.6",
     "compatibleCoreVersion": "0.7.9",
     "scripts": [
-        "init.js"
+        "usenanodoc.js"
     ],
-    "url": "https://github.com/Dethston/releaseautomationtest",
-    "manifest": "https://github.com/Dethston/releaseautomationtest/releases/download/0.0.6/module.json",
-    "download": "https://github.com/Dethston/releaseautomationtest/releases/download/0.0.6/module.zip" 
+    "url": "https://github.com/Dethston/Genefunk-Use-Items",
+    "manifest": "https://github.com/Dethston/Genefunk-Use-Items/releases/download/0.0.6/module.json",
+    "download": "https://github.com/Dethston/Genefunk-Use-Items/releases/download/0.0.6/module.zip" 
  }    
